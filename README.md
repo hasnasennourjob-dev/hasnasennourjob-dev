@@ -17,7 +17,7 @@
 ## 🛡️ Certifications & Training
 
 ### **Core Certifications**
-- **CompTIA Security+ (SY0-601)**
+- **CompTIA Security+ (SY0-701)**
 - **Level 3 Diploma in Networking & Cybersecurity – Gateway Qualifications**  
   - Ethical Hacking  
   - Access Control  
