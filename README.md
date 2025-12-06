@@ -1,7 +1,3 @@
-<!-- Banner (Optional—replace with your own image if you like) -->
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Cybersecurity Banner" width="100%">
-</p>
 
 <h1 align="center">Hi 👋, I'm Hasna Sennour</h1>
 <h3 align="center">Aspiring Cybersecurity Analyst • Full-Stack Developer</h3>
