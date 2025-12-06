@@ -1,63 +1,72 @@
-<!-- GIF BANNER -->
+<!-- Banner (Optional—replace with your own image if you like) -->
 <p align="center">
-  <img src="https://i.imgur.com/q2Y5w5P.gif" alt="Cybersecurity Banner GIF" width="100%">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Cybersecurity Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasna Sennour</h1>
-<h3 align="center">Aspiring Cybersecurity Analyst & Full-Stack Developer</h3>
+<h3 align="center">Aspiring Cybersecurity Analyst • Full-Stack Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Passionate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-In_Progress-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_To_Opportunities-Yes!-purple?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🛡️ Certifications & Training
 
-- 📝 **CompTIA Security+ Certified**
-- 🎓 **L3 Diploma in Networking & Cybersecurity – Gateway Qualifications**
+### **Core Certifications**
+- **CompTIA Security+ (SY0-601)**
+- **Level 3 Diploma in Networking & Cybersecurity – Gateway Qualifications**  
   - Ethical Hacking  
   - Access Control  
   - Network Management  
   - Threats & Vulnerabilities  
   - Data Communications  
   - Project Management  
-- 🔐 **Cyber Security Skills Bootcamp (May 2025) – Pathway Group**
-  - Incident Response  
-  - Cryptography  
-  - Security Best Practices  
-  - Vulnerability Analysis
-- 📚 **Currently Studying**
-  - CPSA  
-  - Python programming  
-  - SQL & SQLite  
-  - NoSQL & MongoDB  
-  - Front-End Web Development  
-  - Django Backend Development  
-  - TypeScript & Angular  
+
+### **Cyber Security Skills Bootcamp – Pathway Group (May 2025)**
+- Incident Response  
+- Cryptography  
+- Security Best Practices  
+- Vulnerability Analysis  
+
+### **Currently Studying**
+- CPSA  
+- Python Programming  
+- SQL / SQLite  
+- NoSQL / MongoDB  
+- Front-End Web Development  
+- Django Backend Development  
+- TypeScript & Angular  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 🔹 Languages
+### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,java" />
 </p>
 
-### 🔹 Databases
+### **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mongodb,mysql" />
 </p>
 
-### 🔹 Cybersecurity Tools
+### **Cybersecurity Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=bash,linux" />
   <img height="48" src="https://img.icons8.com/?size=512&id=23287&format=png" alt="Security+ Badge"/>
 </p>
 
-### 🔹 Web Development
+### **Web Development**
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,angular,react,tailwind,django" />
 </p>
 
-### 🔹 Tools & Platforms
+### **Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma" />
 </p>
@@ -66,44 +75,44 @@
 
 ## 🚀 Projects
 
-### 🔐 **Active Directory & MFA Implementation (Virtual Lab)**
-- Built a complete virtual lab environment using **VirtualBox**
-- Installed **Windows Server 2022** and **Windows 10 clients**
+### 🔐 **Active Directory & MFA Deployment (Virtual Lab)**
+- Built a full virtual lab using **VirtualBox**
+- Deployed **Windows Server 2022** + **Windows 10 clients**
 - Configured **Active Directory Domain Services (AD DS)**
-- Applied **RBAC** using Group Policy Objects (GPOs)
+- Applied **RBAC** with Group Policy Objects (GPOs)
 - Integrated **Azure AD**
 - Implemented **Multi-Factor Authentication (MFA)**
 
 ---
 
 ### 🕵️ **Ethical Hacking & Vulnerability Testing**
-- Performed reconnaissance & scanning using:
+- Conducted reconnaissance & scanning using:
   - **Nmap**
   - **Nessus**
   - **Metasploit**
-- Identified vulnerabilities and recommended mitigation strategies
-- Practiced exploit testing and security hardening
+- Identified vulnerabilities and recommended mitigation strategies  
+- Practiced exploit testing and security hardening techniques  
 
 ---
 
 ### 🛰️ **Home Lab SOC (Security Operations Center)**
-- Built a dedicated SOC-style environment for hands-on security learning
+- Built a personal SOC-style learning environment  
 - Includes:
   - Virtualized systems  
-  - Security monitoring tools  
-  - Logging infrastructure  
+  - Logging & monitoring tools  
+  - Security analysis pipelines  
 - Supports:
   - Threat detection  
-  - Incident analysis  
-  - Defensive technique testing  
-- Designed to simulate a real-world SOC workflow
+  - Log analysis  
+  - Incident response simulations  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnasennourjob-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnasennourjob-dev&theme=tokyonight" />
 </p>
 
 ---
@@ -118,11 +127,12 @@
 ---
 
 ## 💬 About Me
-- Passionate about **Cybersecurity**, **Threat Analysis**, & **Red/Blue Team workflows**
-- Constantly building and improving my **home SOC lab**
-- Developing strong foundations in both **security** and **web development**
-- Motivated to grow into a role as a **Cybersecurity Analyst**
+- Passionate about **cybersecurity**, **threat analysis**, and **red/blue team workflows**
+- Continuously building and improving my **home SOC environment**
+- Strengthening foundations in both **security** and **software development**
+- Motivated to grow into a **Cybersecurity Analyst** role  
 
 ---
 
-⭐ *Thank you for viewing my profile — feel free to explore my projects or connect with me!*
+⭐ *Thanks for visiting — feel free to explore my projects or connect!*
+
